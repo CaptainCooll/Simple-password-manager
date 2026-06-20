@@ -13,7 +13,7 @@ Hey there! Welcome to my 12th-grade Computer Science school project. I built a c
 
 ---
 
-## 📂 The Two Files Explained
+## 📂 The Two Versions
 
 I actually wrote two different versions of this project to try out different ways of working with binary files, specifically for updating data:
 
